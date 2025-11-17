@@ -1,0 +1,22 @@
+.chat-header {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  background-image: url("https://chatbot-api-media.meetdeal.video/static/header/test_e_car_01.png");
+  object-fit: cover;
+  background-size:  100% 100%;
+  -webkit-box-shadow: 0 2px 20px 4px rgba(0, 0, 0, 0.17);
+    box-shadow: 0 2px 20px 4px #0000002b;
+}
+
+.minimize-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #385ce8;
+  height: 3px;
+  width: 16px;
+  cursor: pointer;
+  z-index: 100;
+}

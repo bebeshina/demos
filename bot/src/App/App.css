@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.cs-message__content{
+  background-color: #e5e5e5 !important;
+}
+.cs-message--outgoing .cs-message__content {
+  background-color: #b3b3b3 !important;
+}
+.cs-message-input__content-editor-wrapper{
+  background-color: #e5e5e5 !important;
+
+}
+.cs-message-input__content-editor {
+  background-color: #e5e5e5 !important;
+
+}
+
+
